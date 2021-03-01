@@ -1,0 +1,25 @@
+body{
+    font-family: 'Cookie', cursive;
+    background: url("https://png.pngtree.com/thumb_back/fh260/background/20190220/ourmid/pngtree-warm-color-cosmetic-wedding-hand-painted-image_6907.jpg");
+    background-position: center;
+    background-size: cover;
+    font-size: 25px;
+}
+.heading{
+    font-family: 'Patrick Hand SC', cursive;
+    font-size: 40px;
+}
+.left{
+    float: left;
+    margin-left: 50px;
+}
+.right{
+    float: right;
+    margin-right: 50px;
+}
+.left h4{
+    font-weight: bold;
+}
+.right h4{
+    font-weight: bold;
+}
